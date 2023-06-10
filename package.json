@@ -6,7 +6,7 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "@reach/router": "^1.2.1",
-    "gatsby": "^2.15.24",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-react-helmet": "^3.1.8",
     "gatsby-plugin-typescript": "^2.1.9",
     "react": "^16.9.0",
